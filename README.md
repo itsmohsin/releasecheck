@@ -10,6 +10,9 @@ A release management checklist tool for software teams. Track release steps with
 
 > **Live demo**: [releasecheck.itsmohsin.com](https://releasecheck.itsmohsin.com)
 
+![Release list](public/screenshots/homeScreen.png)
+![Release detail](public/screenshots/editScreen.png)
+
 ---
 
 ## Features
